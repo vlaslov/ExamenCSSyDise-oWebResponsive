@@ -1,0 +1,70 @@
+body{
+    background-color: black;
+}
+#contenedor{
+    width: 80%;
+    margin-left: 10%;
+}
+header{
+    border: solid 1px aqua;
+    background-color: #5b7989;
+    border-radius: 10px 10px 0px 0px;
+    width: 96%;
+    padding: 2%;
+    height: 60px;
+}
+
+#titulo{
+    color: #ffffff;
+    float: left;
+}
+
+#menu{
+    margin-top: 30px;
+    float: right;
+    padding: 10px;
+}
+
+#menu a{
+    color: #ffffff;
+}
+#imagen_central{
+    background-color:  #82c3a6;
+    text-align: center;
+    border: solid 1px aqua;
+    width: 100%;
+}
+
+#imagen_alterna{
+    border: solid 1px green;
+    height: 54px;
+    width: 96%;
+    padding: 2%;
+    background-color: #d5c75f;
+}
+
+.alterna_izq{
+    border: solid 2px green;
+    height: 50px;
+    float: left;
+    width: 46%;
+}
+
+.alterna_der{
+    border: solid 2px green;
+    height: 50px;
+    float: right;
+    width: 46%;
+}
+#pie{
+    border: solid 1px silver;
+    height: 120px;
+    background-color: #C6d5c5;
+    border-radius: 0px 0px 10px 10px;
+}
+#pie div{
+    float: left;
+    width: 23%;
+    background-color: #243ff4;
+    margin: 1%;
+}
